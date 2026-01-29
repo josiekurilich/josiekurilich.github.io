@@ -5,6 +5,7 @@
 body  {
   background-image: url("backg.jpg");
   background-color: #cccccc;
+  background-repeat: no repeat;
 }
 </style>
 </head>
