@@ -2,18 +2,19 @@
 <html>
 <head>
 <style>
-body  {
-  background-image: url("backg.jpg");
-  background-color: #cccccc;
-  background-repeat: no repeat;
+body {
+  background-image: url('backg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
 </style>
 </head>
 <body>
 
-<h1>The background-image Property</h1>
+<h2>Background Cover</h2>
 
-<p>Hello World!</p>
+<p>Set the background-size property to "cover" and the background image will cover the entire element, in this case the body element.</p>
 
 </body>
 </html>
