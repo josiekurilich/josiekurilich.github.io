@@ -13,13 +13,13 @@
 
 
 
-<h2>HTML Forms</h2>
+<h2>Trust Us, With Your Information!</h2>
  <form action ="formtarget.html" method="GET">
 
  <label for="fname">First name:</label><br>
- <input type="text" id="fname" name="fname" value="M"><br>
+ <input type="text" id="fname" name="fname" value=""><br>
  <label for="lname">Last name:</label><br>
- <input type="text" id="lname" name="lname" value="H"><br><br>
+ <input type="text" id="lname" name="lname" value=""><br><br>
  <input type="submit" value="Submit">
 
  </form>
