@@ -4,10 +4,7 @@
 
    <style>
      
-  <!DOCTYPE html>
-<html>
-<head>
-<style>
+
 body {
   background-image: url('backg.jpg');
   background-repeat: no-repeat;
