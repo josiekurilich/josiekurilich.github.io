@@ -6,6 +6,7 @@
     .navbar ul {
       background-color: blue;
       float: left;
+    }
 
 
 
