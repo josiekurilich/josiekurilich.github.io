@@ -1,11 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
 
-.navbar ul {
-  background-color: blue;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
+  <style>
+    .navbar ul {
+      background-color: blue;
+      float: left;
+
 
 
 
