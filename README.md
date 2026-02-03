@@ -56,7 +56,7 @@
         </ul>
       </div>
 
-      </div> style="float:right; border-style=solid">
+      <div style="float:right; border-style=solid">
         <p>Trust US!</p>
       </div>
 
