@@ -1,24 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-image: url('backg.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-}
-</style>
-</head>
-<body>
-
-<h2>Background Cover</h2>
-
-<p>Set the background-size property to "cover" and the background image will cover the entire element, in this case the body element.</p>
-
-</body>
-</html>
-
+/* note the use of ul and .navbar together here. This defines a ul inside a .navbar container */
+.navbar ul (
+  background-color: blue;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+)
 
 
 
