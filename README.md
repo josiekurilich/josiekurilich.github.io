@@ -5,7 +5,7 @@
   <style>
     .navbar ul {
       background-color: blue;
-      float: left;
+      float: center;
     }
 
     .navbar ul {
@@ -24,9 +24,9 @@
       display: block;
       color: white;
       text-align: center;
-      padding: 14px 16px;
+      padding: 24px 36px;
       text-decoration: none;
-      font-size: 20px;
+      font-size: 40px;
     }
 
     li a:hover {
